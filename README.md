@@ -29,7 +29,7 @@ python manage.py export_data/path/to/file.csv
 ### Map View
 A view that shows a map that displays the location of the squirrel sightings on an OpenStreets map. 
 
-[Map](https:)
+[Squirrel Map](https:)
 
 ### Squirrel Lists View
 A view that lists all squirrel sightings with links to view each sighting 
