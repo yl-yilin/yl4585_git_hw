@@ -59,6 +59,6 @@ The full description for this project can be found in [**Squirrel Tracker**](htt
 
 **Contributors:** Yilin Liu, Savannah Wang 
 
-**UNIs:** [[**yl4585**], [**rw2840**]]
+**UNIs:** [**[yl4585]**], [**[rw2840]**]
 
 **Link:** For more information, please go to this [**project link**]() to see our application web page. 
