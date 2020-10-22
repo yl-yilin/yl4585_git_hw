@@ -50,7 +50,7 @@ python manage.py export_data/path/to/2018-Central-Park-Squirrel-Census.csv
 [Django-Leaflet](https://django-leaflet.readthedocs.io/en/latest/)
 
 ## Documentation 
-The description is in [Squirrel Tracker](https://docs.google.com/document/d/1SPv3fMDKiemrR86rD-S9ecvI2npz3PljDzwCfxK2x5g/edit)
+The full description for this project can be found in [Squirrel Tracker](https://docs.google.com/document/d/1SPv3fMDKiemrR86rD-S9ecvI2npz3PljDzwCfxK2x5g/edit)
 
 ## Contributors 
 **Group Name:** Yilin & Savannah 
