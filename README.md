@@ -10,5 +10,5 @@ In the project, we import [2018 Central Park Squirrel Census](https://data.cityo
 Using Python 3.6+, and undering Django web framwork and Git version control.
 
 ## Management Commands 
-**Import:**
+**Import:**\\
 dffe
