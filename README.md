@@ -5,3 +5,6 @@ This is a web appllication project developed with Django, a tool in python, that
 
 ## Dataset
 In the project, we import [2018 Central Park Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) dataset. This is a csv file that included 3024 sightings and 30 variables such as ID, date, age, shift, and so on. 
+
+## Prerequisites
+Using Python 3.6+, and undering Django web framwork and Git version control, 
