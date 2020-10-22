@@ -4,7 +4,7 @@
 This is a web appllication project developed with Django, a tool in python, that allow us keep track of all known squirrels. We used a dataset from the **2018 Central Park Squirrel Census**, and visualized the sightings of squirrels by adding, updating, viewing, and analyzing the squirrel data.  
 
 ## Dataset
-In the project, we import [2018 Central Park Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) dataset. This is a csv file that included 3024 sightings and 30 variables such as ID, date, age, shift, and so on. 
+In the project, we import [**2018 Central Park Squirrel Census**](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) dataset. This is a csv file that included 3024 sightings and 30 variables such as ID, date, age, shift, and so on. 
 
 ## Prerequisites
 Using Python 3.6+, and undering Django web framwork and Git version control.
@@ -45,12 +45,12 @@ python manage.py export_data/path/to/2018-Central-Park-Squirrel-Census.csv
 [Squirrel Stats](https:)
 
 ## Dependent Resources
-[Django](https://www.djangoproject.com/)
+[**Django**](https://www.djangoproject.com/)
 
-[Django-Leaflet](https://django-leaflet.readthedocs.io/en/latest/)
+[**Django-Leaflet**](https://django-leaflet.readthedocs.io/en/latest/)
 
 ## Documentation 
-The full description for this project can be found in [Squirrel Tracker](https://docs.google.com/document/d/1SPv3fMDKiemrR86rD-S9ecvI2npz3PljDzwCfxK2x5g/edit)
+The full description for this project can be found in [**Squirrel Tracker**](https://docs.google.com/document/d/1SPv3fMDKiemrR86rD-S9ecvI2npz3PljDzwCfxK2x5g/edit)
 
 ## Contributors 
 **Group Name:** Yilin & Savannah 
