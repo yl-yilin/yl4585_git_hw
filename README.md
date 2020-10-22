@@ -10,5 +10,8 @@ In the project, we import [2018 Central Park Squirrel Census](https://data.cityo
 Using Python 3.6+, and undering Django web framwork and Git version control.
 
 ## Management Commands 
-**Import:**\\
-dffe
+**Import:** A command that can import dataset from a csv file called 2018 Central Park Squirrel Census. The path should be located after the management commmands in the command line as below.
+
+```sh
+python manage.py import_data/path/to/2018-Central-Park-Squirrel-Census.csv
+```
