@@ -26,5 +26,36 @@ python manage.py export_data/path/to/2018-Central-Park-Squirrel-Census.csv
 
 ## API
 
-### Map Viewing 
+### Map View
 [Map](https:)
+
+### Squirrel Lists View
+[Squirrel Lists](https:)
+
+### Squirrel Update View 
+[Squirrel Update](https:)
+
+### Squirrel Create View
+[Squirrel Create](https:)
+
+### Squirrel Delete View
+[Squirrel Delete](https:)
+
+### Squirrel Stats View 
+[Squirrel Stats](https:)
+
+## Dependent Resources
+[Django](https://www.djangoproject.com/)
+[Django-Leaflet](https://django-leaflet.readthedocs.io/en/latest/)
+
+## Documentation 
+The description is in [Squirrel Tracker](https://docs.google.com/document/d/1SPv3fMDKiemrR86rD-S9ecvI2npz3PljDzwCfxK2x5g/edit)
+
+## Contributors 
+**Group Name:** Yilin & Savannah 
+
+**Section:** 3 
+
+**Contributors:** Yilin Liu, Savannah Wang 
+
+**UNIs:** [**yl4585**](https://), [**rw2840**](https://)
