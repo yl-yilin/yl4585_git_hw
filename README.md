@@ -14,22 +14,25 @@ Using Python 3.6+, and undering Django web framwork and Git version control.
 A command that can import data from a csv file called 2018 Central Park Squirrel Census. The path should be located after the management commmands in the command line like below.
 
 ```sh
-python manage.py import_data/path/to/2018-Central-Park-Squirrel-Census.csv
+python manage.py import_data/path/to/file.csv
 ```
 
 **Export:**
 A command that can export data in a csv format. Again, the path should be located after the management commands in the command line like below.
 
 ```sh
-python manage.py export_data/path/to/2018-Central-Park-Squirrel-Census.csv
+python manage.py export_data/path/to/file.csv
 ```
 
 ## API
 
 ### Map View
+A view that shows a map that displays the location of the squirrel sightings on an OpenStreets map. 
+
 [Map](https:)
 
 ### Squirrel Lists View
+A 
 [Squirrel Lists](https:)
 
 ### Squirrel Update View 
