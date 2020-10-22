@@ -61,4 +61,4 @@ The full description for this project can be found in [**Squirrel Tracker**](htt
 
 **UNIs:** [**yl4585**](https://), [**rw2840**](https://)
 
-**Link:** For more information, please go to this [**link**]() to our project application web page. 
+**Link:** For more information, please go to this [**project link**]() to see our application web page. 
