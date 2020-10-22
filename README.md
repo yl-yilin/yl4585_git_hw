@@ -32,19 +32,23 @@ A view that shows a map that displays the location of the squirrel sightings on 
 [Map](https:)
 
 ### Squirrel Lists View
-A 
+A view that lists all squirrel sightings with links to view each sighting 
+
 [Squirrel Lists](https:)
 
 ### Squirrel Update View 
+A view to update a particular sighting 
+
 [Squirrel Update](https:)
 
 ### Squirrel Create View
+A view to create a new sighting 
+
 [Squirrel Create](https:)
 
-### Squirrel Delete View
-[Squirrel Delete](https:)
-
 ### Squirrel Stats View 
+A view with general stats about the sightings 
+
 [Squirrel Stats](https:)
 
 ## Dependent Resources
